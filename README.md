@@ -1,54 +1,35 @@
-<header>
+Android phone remote control
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Applicable to all versions of Android
 
-# GitHub Pages
+📌 New interface and logo
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+📌 New update for MIUI + ColorOS phones. Enabling background permissions is easier than ever
 
-</header>
+📌Automatic screen unlock: needs to be detected once
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+📌 Monitor selected applications
 
-## Step 1: Enable GitHub Pages
+📌 Send notification to mobile phone
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+📌 Cut off internet access for any app
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+📌 Helps connections last longer
 
-### :keyboard: Activity: Enable GitHub Pages
+Common Functions
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+📌Manager: Files, SMS, Contacts, Calls, Accounts, Apps, Permissions
 
-<footer>
+📌Monitor: screen controls, camera, microphone, keylogger, location, web browser, call recorder, auto-clicker, screen reader
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+📌 Admin: Request admin rights, lock screen, wipe data keylogging
 
----
+📌 Tools: Call Number, Download Apk, Show Message, Clipboard, Open Link, Shell Command
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+📌Extras: notification list, social media hunter, phone messages
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+📌Contact me if you need customized icon color
 
-</footer>
+📌Contact with me
+
+(https://t.me/evfldev)
